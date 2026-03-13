@@ -22,7 +22,7 @@
 # CONFIGURATION
 # ============================================================
 $ThresholdMB = 512          # Minimum unallocated space (MB) to trigger alert
-$LogPath     = "C:\LenexTemp\logs\UnallocatedSpace.log"
+$LogPath     = "C:\ProgramData\Lenex\logs\UnallocatedSpace.log"
 
 # Bus types to exclude — strictly removable/optical media only.
 # VMware VMDKs   → BusType: SCSI or NVMe              (INCLUDED)
